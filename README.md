@@ -1,1 +1,1 @@
-# FYP
+# Fake News Detection
